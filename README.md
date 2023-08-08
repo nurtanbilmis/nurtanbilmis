@@ -33,4 +33,5 @@ Feel free to reach out if you want to collaborate on a project, need some advice
 
 ## 📈 GitHub Stats
 [![Nurtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurtanbilmis&show_icons=true&theme=radical&count_private=true)](https://github.com/nurtanbilmis)
-To see private activity, see below
+
+See contribution activity for private contributions.
