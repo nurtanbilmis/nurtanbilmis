@@ -1,16 +1,22 @@
-### Hi there 👋
+# Nurtan Bilmis
 
-<!--
-**nurtanbilmis/nurtanbilmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Nurtan, a motivated Data Science & AI enthusiast. I'm passionate about extracting insights from data and using AI to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Python
+- **Libraries**: Pandas, Numpy, Scikit-learn, TensorFlow, Keras
+- **Tools**: Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+[![Nurtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurtanbilmis&show_icons=true&theme=radical)](https://github.com/nurtanbilmis)
+
+## 📌 Pinned Repositories
+- [The Hague University Reschooling](https://github.com/nurtanbilmis/hhs-datascience-reschooling)
+- [Datacamp Projects](https://github.com/nurtanbilmis/datacamp-projects)
+
+## 📫 How to reach me
+Feel free to reach out if you want to collaborate on a project, need some advice, or just want to chat!
+- [LinkedIn](https://www.linkedin.com/in/nurtan-bilmis-767ba326a/)
+- Email: nurtanbilmis@gmail.com
+
