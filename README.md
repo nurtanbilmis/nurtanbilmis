@@ -9,8 +9,6 @@ Hello there! 👋 I'm Nurtan, a motivated Data Science & AI enthusiast. I'm pass
 - **Soft Skills**: Analytical and critical thinking, eagerness to learn, problem-solving ability
 - **Languages**: Dutch, English, Turkish
 
-## 📈 GitHub Stats
-[![Nurtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurtanbilmis&show_icons=true&theme=radical&count_private=true)](https://github.com/nurtanbilmis)
 
 ## 🎓 Education
 - **The Hague University (retraining program)**
@@ -33,3 +31,6 @@ Feel free to reach out if you want to collaborate on a project, need some advice
 - [LinkedIn](https://www.linkedin.com/in/nurtan-bilmis-767ba326a/)
 - Email: nurtanbilmis@gmail.com
 
+## 📈 GitHub Stats
+[![Nurtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurtanbilmis&show_icons=true&theme=radical&count_private=true)](https://github.com/nurtanbilmis)
+To see private activity, see below
