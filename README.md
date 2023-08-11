@@ -3,7 +3,7 @@
 Hello there! 👋 I'm Nurtan, a motivated Data Science & AI enthusiast. I'm passionate about extracting insights from data and using AI to solve real-world problems.
 
 ## 🛠 Skills
-- **Programming**: Python (numpy, pandas, matplotlib, sci-kit, tensorflow)
+- **Programming**: Python (numpy, pandas, matplotlib, seaborn, sci-kit, tensorflow)
 - **Data Skills**: Predictive analytics, data analytics, data visualization, data-driven decision making, machine learning, deep learning
 - **Tools & Technologies**: SQL, Power BI, dashboards, reporting, storytelling
 - **Soft Skills**: Analytical and critical thinking, eagerness to learn, problem-solving ability
