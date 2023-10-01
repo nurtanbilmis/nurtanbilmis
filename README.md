@@ -16,7 +16,7 @@ Hello there! 👋 I'm Nurtan, a motivated Data Science & AI enthusiast. I'm pass
   - Courses covered: Data Processing with Python, Machine Learning, Deep Learning
 
 ## 📚 Courses
-- **HarvardX**: CS50 Programming with Python (In Progress: 87%)
+- **HarvardX**: CS50 Programming with Python (Completed)
 - **Data Camp**: Data Scientist with Python (In Progress: 93%)
 
 ## 💼 Recent Projects
