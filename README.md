@@ -30,6 +30,7 @@ Hello there! 👋 I'm Nurtan, a motivated Data Science & AI enthusiast. I'm pass
 Feel free to reach out if you want to collaborate on a project, need some advice, or just want to chat!
 - [LinkedIn](https://www.linkedin.com/in/nurtan-bilmis-767ba326a/)
 - Email: nurtanbilmis@gmail.com
+- [https://nurtan.net](https://www.nurtan.net/)
 
 ## 📈 GitHub Stats
 [![Nurtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurtanbilmis&show_icons=true&theme=radical&count_private=true)](https://github.com/nurtanbilmis)
